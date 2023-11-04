@@ -1,8 +1,0 @@
-.vscode-server/*
-__pycache__
-.pytest_cache/*
-
-!.keeps
-/.env
-/code/models
-/code/__pycache__
